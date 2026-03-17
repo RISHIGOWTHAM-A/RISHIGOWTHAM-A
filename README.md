@@ -1,57 +1,91 @@
-## Hi there 👋 I'm Rishi Gowtham
+<h1 align="center">Hi 👋, I'm Rishi Gowtham</h1>
 
-🚀 Passionate Full Stack Developer  
-💻 I love building modern web applications with clean UI & scalable backend  
-🌱 Always learning new technologies and improving my skills  
+<p align="center">
+  🚀 Full Stack Developer | ⚡ Tech Enthusiast | 🎯 Problem Solver
+</p>
 
----
-
-### 🔥 About Me
-- 🔭 Currently working on full-stack web projects  
-- 🌱 Exploring advanced Next.js & backend architectures  
-- 👯 Open to collaboration on real-world projects  
-- 💬 Ask me about Web Development & UI Design  
-- ⚡ Fun fact: I enjoy turning ideas into real products  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;React+%7C+Next.js+Developer;Always+Learning+New+Tech;Build+%2B+Deploy+%2B+Scale" />
+</p>
 
 ---
 
-### 🛠️ Tech Stack
-
-#### 💻 Frontend
-![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-
-#### ⚙️ Backend & Database
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
-
-#### 🎨 UI & Tools
-![shadcn/ui](https://img.shields.io/badge/shadcn/ui-black?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+### 🧑‍💻 About Me
+- 🔭 Working on **Full Stack Projects**
+- 🌱 Learning **DSA, System Design & Gen AI**
+- 👯 Open to **collaborations**
+- 💬 Ask me about **Web Dev, UI/UX**
+- ⚡ Fun fact: *I build things that actually work 😎*
 
 ---
 
-### 📊 GitHub Stats
-![Rishi's GitHub stats](https://github-readme-stats.vercel.app/api?username=RISHIGOWTHAM-A&show_icons=true&theme=tokyonight)
-
----
-
-### 🚀 Projects
-- 🔥 Built 18+ repositories with real-world applications  
-- 🌐 Focused on modern UI, performance, and scalability  
-
----
-
-### 📫 Connect with Me
+### 🌐 Connect with Me
 - 💼 GitHub: https://github.com/RISHIGOWTHAM-A  
 - 📧 Email: your-email@example.com  
 
 ---
 
-⭐ *"Code. Build. Improve. Repeat."*
+### 🚀 Tech Stack
+
+#### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python" />
+</p>
+
+#### ⚛️ Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</p>
+
+#### 🛠 Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=supabase,mongodb,nodejs" />
+</p>
+
+#### 🎨 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RISHIGOWTHAM-A&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=RISHIGOWTHAM-A&theme=tokyonight" />
+</p>
+
+---
+
+### 🧠 Coding Activity
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RISHIGOWTHAM-A&theme=tokyonight" />
+</p>
+
+---
+
+### 🚀 Projects
+- 🌐 Focused on **modern UI + performance**
+- ⚡ Real-world full-stack applications  
+
+---
+
+### 🏆 Achievements
+- 🚀 Active GitHub Contributor  
+- 💻 Consistent Project Builder  
+- 📈 Improving problem-solving skills daily  
+
+---
+
+### 💡 Quote
+> *"First, solve the problem. Then, write the code."* 💻
+
+---
+
+<p align="center">
+  ⭐ Don't forget to star your favorite repositories!
+</p>
