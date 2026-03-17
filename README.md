@@ -21,7 +21,7 @@
 
 ### 🌐 Connect with Me
 - 💼 GitHub: https://github.com/RISHIGOWTHAM-A  
-- 📧 Email: your-email@example.com  
+- 📧 Email: arishigowtham@gmail.com  
 
 ---
 
